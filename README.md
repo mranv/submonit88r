@@ -22,7 +22,7 @@ A Python script for monitoring subdomains using the crt.sh certificate search.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/submonit88r.git
+   git clone https://github.com/mranv/submonit88r.git
    ```
 
 2. Navigate to the project directory:
